@@ -57,3 +57,12 @@ docs/source/changelog.md
 
 .jupyter_releaser_checkout
 *.csv
+*.png
+V3/Castla Bay/CastleBay_all.rds
+V3/MasonHT/MasonHT_all.rds
+V3/MasonLT/MasonLT_all.rds
+V3/Maysville/Maysv_all.rds
+V3/River Road/RiverRd_all.rds
+V3/StJames/StJames_all.rds
+V3/SurfCity/SurfCity_all.rds
+V3/Topsail/Topsail_all.rds
